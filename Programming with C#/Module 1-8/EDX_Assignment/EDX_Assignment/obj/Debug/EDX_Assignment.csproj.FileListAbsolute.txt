@@ -1,0 +1,12 @@
+c:\users\kam\documents\visual studio 2015\Projects\EDX_Assignment\EDX_Assignment\bin\Debug\EDX_Assignment.exe.config
+C:\Users\Kam\documents\visual studio 2015\Projects\EDX_Assignment\EDX_Assignment\obj\Debug\EDX_Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Kam\documents\visual studio 2015\Projects\EDX_Assignment\EDX_Assignment\bin\Debug\EDX_Assignment.exe
+C:\Users\Kam\documents\visual studio 2015\Projects\EDX_Assignment\EDX_Assignment\bin\Debug\EDX_Assignment.pdb
+C:\Users\Kam\documents\visual studio 2015\Projects\EDX_Assignment\EDX_Assignment\obj\Debug\EDX_Assignment.exe
+C:\Users\Kam\documents\visual studio 2015\Projects\EDX_Assignment\EDX_Assignment\obj\Debug\EDX_Assignment.pdb
+C:\Users\Kam\Documents\TrainingProjects2017\Programming with C#\Module 1-8\EDX_Assignment\EDX_Assignment\bin\Debug\EDX_Assignment.exe.config
+C:\Users\Kam\Documents\TrainingProjects2017\Programming with C#\Module 1-8\EDX_Assignment\EDX_Assignment\obj\Debug\EDX_Assignment.exe
+C:\Users\Kam\Documents\TrainingProjects2017\Programming with C#\Module 1-8\EDX_Assignment\EDX_Assignment\obj\Debug\EDX_Assignment.pdb
+C:\Users\Kam\Documents\TrainingProjects2017\Programming with C#\Module 1-8\EDX_Assignment\EDX_Assignment\bin\Debug\EDX_Assignment.exe
+C:\Users\Kam\Documents\TrainingProjects2017\Programming with C#\Module 1-8\EDX_Assignment\EDX_Assignment\bin\Debug\EDX_Assignment.pdb
+C:\Users\Kam\Documents\TrainingProjects2017\Programming with C#\Module 1-8\EDX_Assignment\EDX_Assignment\obj\Debug\EDX_Assignment.csprojResolveAssemblyReference.cache
